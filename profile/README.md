@@ -5,6 +5,6 @@ More description, links to repos, pics of participants?
 
 
 
-| [![Greta Binford](../images/greta_binford.jpg)]  | [![Jeff Oliver](../images/jeff_oliver.jpg)] | [![Katy Prudic](../images/Prudic_Katy.jpg)] |
+| [![Greta Binford](images/greta_binford.jpg)]  | [![Jeff Oliver](images/jeff_oliver.jpg)] | [![Katy Prudic](images/Prudic_Katy.jpg)] |
 |:---:|:---:|:---:|
 | Greta Binford | Jeff Oliver | Katy Prudic |
