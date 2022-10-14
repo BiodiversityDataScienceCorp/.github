@@ -1,5 +1,5 @@
 # Biodiversity Data Science Corp.
-### A Collaboration between the University of Arizona and Lewis & Clark College
+### A Collaboration between the University of Arizona and Lewis & Clark College to promote Data Science education
 
 More description, links to repos, pics of participants?
 
