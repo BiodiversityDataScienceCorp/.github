@@ -1,7 +1,7 @@
 # Biodiversity Data Science Corp.
 ### A Collaboration between the University of Arizona and Lewis & Clark College to promote Data Science education
 
-More description, links to repos, pics of participants?
+In 2021, we received a 3-year grant from the National Science Foundation's [Harnessing the Data Revolution](https://www.nsf.gov/cise/harnessingdata/) grant program. The grant sub-category is Data Science Corps (DSC), which *focuses on building capacity for HDR to help unleash the power of data in the service of science and society. The DSC provides practical experiences, teaches new skills, and offers learning opportunities, in a variety of settings, to data scientists and data science students*.
 
 
 #### Primary Investigators
