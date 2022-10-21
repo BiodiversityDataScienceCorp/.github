@@ -33,7 +33,7 @@ The grant had three specific aims:
 
 During the spring semester, beginning 2022, the two institutions offered a course titled **Applied Data Science Seminar**. In this course, students build data science skills and leverage them to analyze data relevant to conservation stakeholders in the US Fish and Wildlife Service, AZ Department of Transportation, and the Phoenix Desert Botanical Gardens. In collaborative teams students will work together on organizing, cleaning, analyzing and visualizing monarch and milkweed data to help improve monarch conservation approaches and efforts in the southwestern US. Students will learn more about data science and project management best practices working as a team.
 
-The repository of course lessons and student projects is available <a href="https://github.com/BiodiversityDataScienceCorp/Applied-Data-Science-Seminar" target="_blank"></a>.
+The repository of course lessons and student projects is available <a href="https://github.com/BiodiversityDataScienceCorp/Applied-Data-Science-Seminar" target="_blank">here</a>.
 
 
 #### Broadening instructional capacity.
