@@ -6,6 +6,7 @@ __A Collaboration between the University of Arizona and Lewis & Clark College to
 In 2021, we received a 3-year grant from the National Science Foundation's [Harnessing the Data Revolution](https://www.nsf.gov/cise/harnessingdata/) grant program. The grant sub-category is Data Science Corps (DSC), which *focuses on building capacity for HDR to help unleash the power of data in the service of science and society. The DSC provides practical experiences, teaches new skills, and offers learning opportunities, in a variety of settings, to data scientists and data science students*.
 
 Our focus is primarily on higher education, and finding commonalities and differences among approaches at a R1 institution (University of Arizona) and a small liberal arts college (Lewis & Clark College).
+<hr>
 
 ## Participants
 ### Primary Investigators
@@ -17,7 +18,7 @@ Our focus is primarily on higher education, and finding commonalities and differ
 | ![Ellen Bledsoe](https://github.com/BiodiversityDataScienceCorp/.github/blob/main/profile/images/ellen_bledsoe.jpg) | ![Ethan Davis](https://github.com/BiodiversityDataScienceCorp/.github/blob/main/profile/images/ethan_davis.jpg) | ![Jeremy McWilliams](https://github.com/BiodiversityDataScienceCorp/.github/blob/main/profile/images/jeremy_mcwilliams.jpg) | ![Mila Pruiett](https://github.com/BiodiversityDataScienceCorp/.github/blob/main/profile/images/mila_pruiett.jpeg) | ![Jill Williams](https://github.com/BiodiversityDataScienceCorp/.github/blob/main/profile/images/jill_williams.jpg) |
 |:---:|:---:|:---:|:---:|:---:|
 |  Ellen Bledsoe<br>Assistant Professor of Practice<br>University of Arizona | Ethan Davis<br>Digital and Data Science Specialist<br>Lewis & Clark College | Jeremy McWilliams<br>Head of Digital Services<br>Lewis & Clark College | Mila Pruiett<br>NSF Data Science Project Coordinator<br>Lewis & Clark College | Jill Williams<br>Director, Women in Science and Engineering Program<br>University of Arizona |
-
+<hr>
 
 
 ## Content / Modules
