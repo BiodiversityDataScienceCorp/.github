@@ -35,7 +35,7 @@ Beginning fall of 2022, the two institutions taught a course titled "Data in the
 
 The course will be offered again during the fall semesters of 2023 and 2024.
 
-Course content is available [here](https://github.com/BiodiversityDataScienceCorp/Data-in-the-wild). 
+Course content is/will be available [here](https://github.com/BiodiversityDataScienceCorp/Data-in-the-wild).
 
 
 
