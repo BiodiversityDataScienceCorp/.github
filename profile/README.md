@@ -11,6 +11,9 @@ Our focus is primarily on higher education, and finding commonalities and differ
 | Greta Binford<br>Professor of Biology<br>Lewis & Clark College | Jeff Oliver<br>Data Science Specialist<br>University of Arizona | Katy Prudic<br>Assistant Professor, Citizen and Data Science<br>University of Arizona |
 
 #### Contributors
+| ![Jill Williams](https://github.com/BiodiversityDataScienceCorp/.github/blob/main/profile/images/jill_williams.jpg)  | ![Ellen Bledsoe](https://github.com/BiodiversityDataScienceCorp/.github/blob/main/profile/images/ellen_bledsoe.jpg) | ![Katy Prudic](https://github.com/BiodiversityDataScienceCorp/.github/blob/main/profile/images/Prudic_Katy.jpg) |
+|:---:|:---:|:---:|
+| Jill Williams<br>Director, Women in Science and Engineering Program<br>University of Arizona | Ellen Bledsoe<br>Assistant Professor of Practice<br>University of Arizona | Katy Prudic<br>Assistant Professor, Citizen and Data Science<br>University of Arizona |
 (Ellen, Jill, Jeremy, Ethan, Mila, Hannah, Parvaneh)
 
 
