@@ -23,7 +23,7 @@ Our focus is primarily on higher education, and finding commonalities and differ
 
 ## Content / Modules
 
-The grant had three specific aims:
+The grant has three specific aims:
 
 * Broadening early participation through the General Education curriculum.
 * Broadening participation through real-world experiences.
@@ -31,7 +31,11 @@ The grant had three specific aims:
 
 ### Broadening early participation through the General Education curriculum
 
-(more on Data in the Wild, and link to repo)
+Beginning fall of 2022, the two institutions taught a course titled "Data in the Wild". The course included the story arc of settling in Antarctica, and encountering and solving real world problems by learning and applying data science skills. At Lewis & Clark, the course was taught as part of the first year General Education course "Numbers", which broadly focuses and data literacy and numerical analysis. At Arizona, the course was taught within the Wildlife and Fisheries Science department, though counted toward General Education requirements.
+
+The course will be offered again during the fall semesters of 2023 and 2024.
+
+Course content is available [here](https://github.com/BiodiversityDataScienceCorp/Data-in-the-wild). 
 
 
 
@@ -39,7 +43,15 @@ The grant had three specific aims:
 
 During the spring semester, beginning 2022, the two institutions offered a course titled **Applied Data Science Seminar**. In this course, students build data science skills and leverage them to analyze data relevant to conservation stakeholders in the US Fish and Wildlife Service, AZ Department of Transportation, and the Phoenix Desert Botanical Gardens. In collaborative teams students will work together on organizing, cleaning, analyzing and visualizing monarch and milkweed data to help improve monarch conservation approaches and efforts in the southwestern US. Students will learn more about data science and project management best practices working as a team.
 
+The course will be offered again during the spring semesters of 2023 and 2024.
+
 The repository of course lessons and student projects is available <a href="https://github.com/BiodiversityDataScienceCorp/Applied-Data-Science-Seminar" target="_blank">here</a>.
 
 
 ### Broadening instructional capacity.
+
+During summer of 2022, the grant team, led by Jeff Oliver, conducted a 6-week workshop series for faculty members at both institutions to help them integrate data science modules into their respective courses. The instructional content was based upon curriculum developed by the [Data Carpentries](https://datacarpentry.org/) organization. During the first three weeks, the instructional focus was on Data Science pedagogy. The second three weeks focused on practical skills and module building, using R and RStudio.
+
+The workshops will repeat during the summers of 2023 and 2024.
+
+Workshop content is available [here](https://github.com/BiodiversityDataScienceCorp/Instructional-Pedagogy).
